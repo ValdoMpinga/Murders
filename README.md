@@ -91,7 +91,7 @@ uma abordagem via código com Mocha [https://mochajs.org/].
 
 ![arch](https://user-images.githubusercontent.com/76015450/178155194-bad70510-c41b-4fde-9129-4d55c80ad44d.png)
 
-# ER Moodel
+# ER Model
 
 ![ER](https://user-images.githubusercontent.com/76015450/178155242-9e2a01cb-cdfe-4309-bfa1-e06f0b895fc3.png)
 
