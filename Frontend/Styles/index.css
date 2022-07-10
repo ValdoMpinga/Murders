@@ -1,0 +1,47 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.row{
+  background: white;
+  border-radius: 30px;
+  box-shadow: 12px 12px 22px;
+}
+
+.logink h1{
+  font-size: 4rem;
+  font-weight: 700;
+  font-family: 'pacifico',cursive; 
+}
+
+.inp{
+  height: 50px;
+  width: 70%;
+  margin-top: 20px;
+}
+
+.btn1{
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+  height: 50px;
+  width: 50%;
+  border: none;
+  outline: none;
+  border-radius: 60px;
+  font-weight: 600;
+  background: rgb(51, 32, 32);
+  color: white;    
+}
+
+.btn1:hover {
+  background: rgb(107, 31, 31);
+  transition: 0.5s;
+}
+
+a{
+  margin-top: 20px;
+  text-decoration: none;
+}
