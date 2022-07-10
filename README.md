@@ -82,3 +82,17 @@ c. Data migration must be idempotent, that is, it will only import entities that
 have not been recorded before.
  - [x] Deverão ser realizados testes simples a todos os endpoints. Poderá ser utilizado o Postman ou
 uma abordagem via código com Mocha [https://mochajs.org/].
+
+# Technologies used
+
+![techUsed](https://user-images.githubusercontent.com/76015450/178155048-022f0879-739e-4160-9a57-35558a7abc34.png)
+
+# Package diagram
+
+![arch](https://user-images.githubusercontent.com/76015450/178155194-bad70510-c41b-4fde-9129-4d55c80ad44d.png)
+
+# ER Moodel
+
+![ER](https://user-images.githubusercontent.com/76015450/178155242-9e2a01cb-cdfe-4309-bfa1-e06f0b895fc3.png)
+
+
